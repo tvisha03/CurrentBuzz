@@ -9,7 +9,7 @@
     <h1>CurrentBuzz - News Web Application</h1>
     <p>A responsive news web application built using <strong>HTML</strong>, <strong>CSS</strong>, <strong>React</strong>, <strong>Bootstrap</strong>, and integrated with <strong>NewsAPI</strong> to display real-time news articles.</p>
 
-    <h2>Features</h2>
+<h2>Features</h2>
     <ul>
         <li><strong>Real-time News Articles:</strong> Fetches up-to-date news articles using NewsAPI.</li>
         <li><strong>Categorized News Sections:</strong> Browse news categorized by topics like Technology, Sports, Business, and Entertainment.</li>
@@ -18,7 +18,7 @@
         <li><strong>Dark Mode:</strong> Toggle between light and dark themes for better user experience.</li>
     </ul>
 
-    <h2>Technologies Used</h2>
+<h2>Technologies Used</h2>
     <ul>
         <li><strong>Frontend:</strong> HTML, CSS, React, Bootstrap</li>
         <li><strong>API:</strong> <a href="https://newsapi.org/" target="_blank">NewsAPI</a> (For fetching news articles)</li>
@@ -26,7 +26,7 @@
         <li><strong>Styling:</strong> Custom CSS with Bootstrap components</li>
     </ul>
 
-    <h2>Installation</h2>
+ <h2>Installation</h2>
     <ol>
         <li>Clone the repository:
             <pre><code>git clone https://github.com/yourusername/currentbuzz.git</code></pre>
@@ -46,14 +46,14 @@
         <li>Open your browser and visit <a href="http://localhost:3000" target="_blank">http://localhost:3000</a>.</li>
     </ol>
 
-    <h2>Usage</h2>
+<h2>Usage</h2>
     <ul>
         <li>Browse through various news categories (Technology, Sports, Business, Entertainment).</li>
         <li>Use the search bar to find specific articles.</li>
         <li>Toggle between light and dark modes using the toggle switch.</li>
     </ul>
 
-    <h2>Contributing</h2>
+<h2>Contributing</h2>
     <p>Feel free to fork the repository and submit pull requests for improvements or bug fixes. Contributions are welcome!</p>
 
     
