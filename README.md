@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CurrentBuzz - News Web Application</title>
+    
 </head>
 <body>
     <h1>CurrentBuzz - News Web Application</h1>
